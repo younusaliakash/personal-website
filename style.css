@@ -66,14 +66,13 @@ p{
     text-align: center;
     padding-top: 10%;
 }
-.project-group{
+.project-box-group{
     width: 80%;
     height: 100%;
     margin: auto;
-    align-items: center;
 }
 
-.one-third{
+.porject-item-box{
     float: left;
     border-radius: 20px;
     margin: 1.6%;
@@ -84,7 +83,7 @@ p{
     box-shadow: 10px 10px 40px rgb(207, 207, 207);
     
 }
-.one-third img{
+.porject-item-box img{
     width: 100%;
 }
 .inquiry-box h2{
@@ -119,7 +118,7 @@ p{
     margin-top: -15%;
     margin-bottom: 15%;
 }
-.testimonoal-item{
+.testimonial-item{
     float: left;
     width: 30%;
     margin: 5%;
@@ -127,7 +126,7 @@ p{
     background-color: #F8F9FC;
     box-shadow: 10px 10px 30px #193549;
 }
-.testimonoal-item img{
+.testimonial-item img{
     width: 100%;
     margin-top: -70%;
     border: 7px solid #ED3A48;
@@ -137,7 +136,7 @@ p{
     width: 40%;
     height: 40%;
 }
-.testimonoal-item p{
+.testimonial-item p{
     font-weight: 600;
 }
 .myteam{
